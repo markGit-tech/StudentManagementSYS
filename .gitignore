@@ -1,0 +1,12 @@
+# Local XAMPP configuration
+config/database.php
+
+# Environment files
+.env
+
+# Temporary files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
