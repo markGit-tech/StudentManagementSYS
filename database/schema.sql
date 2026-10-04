@@ -1,7 +1,3 @@
-CREATE DATABASE IF NOT EXISTS student_management_sys;
-
-USE student_management_sys;
-
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
