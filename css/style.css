@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f6f8;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 600;
+}
+
+.table {
+    background-color: #ffffff;
+}
+
+.btn {
+    border-radius: 6px;
+}
+
+.form-control {
+    border-radius: 6px;
+}
+
+.card {
+    border-radius: 8px;
+}

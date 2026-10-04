@@ -28,7 +28,7 @@ https://marcgajo-studentmanagement.infinityfree.io/
 
 - HTML5
 - CSS3
-- Bootstrap 3.4.1
+- Bootstrap 5.3.3
 - JavaScript
 - PHP
 - MySQL
